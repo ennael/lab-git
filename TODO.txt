@@ -1,1 +1,3 @@
-- documentation translation
+- provide more dicumentation
+- add library
+- fix grammer in doc

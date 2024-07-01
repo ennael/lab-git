@@ -38,7 +38,6 @@ from the Git log using the command:
 
 	make CHANGELOG
 
-
 Where to get help:
 ==================
 
@@ -50,8 +49,8 @@ Please see http://lists.denx.de/pipermail/u-boot and
 http://dir.gmane.org/gmane.comp.boot-loaders.u-boot
 
 
-Where to get source code:
-=========================
+Where to get source code from git:
+==================================
 
 The U-Boot source code is maintained in the Git repository at
 git://www.denx.de/git/u-boot.git ; you can browse it online at
